@@ -36,6 +36,7 @@ function pgWeather() {
             if (invalidNode) {
                 entryHolder.removeChild(invalidNode)
             };
+            document.getElementById('content').scrollIntoView();
         })
     };
 };
