@@ -3,7 +3,8 @@
 ## Overview
 An asynchronous web app that uses Web API and user data to dynamically update the UI.
 
-## This project accepts a valid Zip code from users and displays the temperature of that location and the current date.
+## About
+This project accepts a valid Zip code from users and displays the temperature of that location and the current date.
 
 ## Instructions
 - Fork this repository and clone to your computer.
